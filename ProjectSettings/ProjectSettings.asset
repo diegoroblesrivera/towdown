@@ -3,8 +3,13 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 30
   productGUID: 6af39644f5324a5409bed7e7691c6b6b
+=======
+  serializedVersion: 28
+  productGUID: a8173cc88ed1fb94cb070022b166080a
+>>>>>>> 35de9d40d5b22c615ff540dbcd432f8ba1064807
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -884,7 +889,8 @@ PlayerSettings:
   metroDefaultTileSize: 1
   metroTileForegroundText: 2
   metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
-  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628,
+    a: 1}
   metroSplashScreenUseBackgroundColor: 0
   syncCapabilities: 0
   platformCapabilities: {}
@@ -947,7 +953,7 @@ PlayerSettings:
   cloudProjectId: 16c60bdf-8190-4d76-9702-6d4f0619af06
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Mas Testing
   organizationId: drr-games
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
