@@ -6,8 +6,9 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float speed = 3f;
 
-    private static readonly int ParamXHash = Animator.StringToHash("X");
-    private static readonly int ParamYHash = Animator.StringToHash("Y");
+    private int paramXHash;
+    private int paramYHash;
+    private int paramIsMovingHash;
 
     private Rigidbody2D rb;
     private Animator animator;
@@ -15,12 +16,27 @@ public class PlayerController : MonoBehaviour
     private Vector2 moveInput;
     private Vector2 lastDirection = Vector2.down;
 
-
-
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+
+        paramXHash = Animator.StringToHash("X");
+        paramYHash = Animator.StringToHash("Y");
+        paramIsMovingHash = Animator.StringToHash("isMoving");
+
+        if (animator != null)
+        {
+            foreach (var p in animator.parameters)
+            {
+                if (p.name.Equals("X", System.StringComparison.OrdinalIgnoreCase))
+                    paramXHash = p.nameHash;
+                else if (p.name.Equals("Y", System.StringComparison.OrdinalIgnoreCase))
+                    paramYHash = p.nameHash;
+                else if (p.name.Equals("isMoving", System.StringComparison.OrdinalIgnoreCase))
+                    paramIsMovingHash = p.nameHash;
+            }
+        }
 
         rb.gravityScale = 0f;
         rb.freezeRotation = true;
@@ -49,24 +65,7 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         moveInput = Vector2.ClampMagnitude(moveAction.ReadValue<Vector2>(), 1f);
-        bool isMoving = moveInput.sqrMagnitude > 0.01f;
-
-if (isMoving)
-{
-    lastDirection = moveInput.normalized;
-    animator.SetFloat("X", lastDirection.x);
-    animator.SetFloat("Y", lastDirection.y);
-}
-else
-{
-    animator.SetFloat("X", lastDirection.x);
-    animator.SetFloat("Y", lastDirection.y);
-}
-
-animator.SetBool("IsMoving", isMoving);
         UpdateAnimation();
-
-
     }
 
     private void FixedUpdate()
@@ -82,16 +81,18 @@ animator.SetBool("IsMoving", isMoving);
 
         if (isMoving)
         {
-            lastDirection = moveInput.normalized;
-            animator.SetFloat(ParamXHash, lastDirection.x);
-            animator.SetFloat(ParamYHash, lastDirection.y);
-        }
-        else
-        {
-            animator.SetFloat(ParamXHash, lastDirection.x);
-            animator.SetFloat(ParamYHash, lastDirection.y);
+            if (Mathf.Abs(moveInput.x) > Mathf.Abs(moveInput.y))
+            {
+                lastDirection = new Vector2(Mathf.Sign(moveInput.x), 0f);
+            }
+            else
+            {
+                lastDirection = new Vector2(0f, Mathf.Sign(moveInput.y));
+            }
         }
 
-        animator.SetBool("IsMoving", isMoving);
+        animator.SetFloat(paramXHash, lastDirection.x);
+        animator.SetFloat(paramYHash, lastDirection.y);
+        animator.SetBool(paramIsMovingHash, isMoving);
     }
 }
