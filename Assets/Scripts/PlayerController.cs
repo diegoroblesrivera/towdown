@@ -6,9 +6,8 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float speed = 3f;
 
-    // Parámetros del Animator del paquete Cainos
-    private static readonly int DirectionHash = Animator.StringToHash("Direction");
-    private static readonly int IsMovingHash = Animator.StringToHash("IsMoving");
+    private static readonly int ParamXHash = Animator.StringToHash("X");
+    private static readonly int ParamYHash = Animator.StringToHash("Y");
 
     private Rigidbody2D rb;
     private Animator animator;
@@ -20,7 +19,6 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
 
-        // Configuración top-down: sin gravedad y sin rotar al chocar
         rb.gravityScale = 0f;
         rb.freezeRotation = true;
         rb.interpolation = RigidbodyInterpolation2D.Interpolate;
@@ -61,13 +59,11 @@ public class PlayerController : MonoBehaviour
         if (animator == null) return;
 
         bool isMoving = moveInput.sqrMagnitude > 0.01f;
-        animator.SetBool(IsMovingHash, isMoving);
-        if (!isMoving) return;
 
-        // 0 = abajo, 1 = arriba, 2 = derecha, 3 = izquierda
-        int direction = Mathf.Abs(moveInput.x) > Mathf.Abs(moveInput.y)
-            ? (moveInput.x > 0 ? 2 : 3)
-            : (moveInput.y > 0 ? 1 : 0);
-        animator.SetInteger(DirectionHash, direction);
+        if (isMoving)
+        {
+            animator.SetFloat(ParamXHash, moveInput.x);
+            animator.SetFloat(ParamYHash, moveInput.y);
+        }
     }
 }
