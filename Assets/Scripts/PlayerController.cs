@@ -13,6 +13,9 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private InputAction moveAction;
     private Vector2 moveInput;
+    private Vector2 lastDirection = Vector2.down;
+
+
 
     private void Awake()
     {
@@ -46,7 +49,24 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         moveInput = Vector2.ClampMagnitude(moveAction.ReadValue<Vector2>(), 1f);
+        bool isMoving = moveInput.sqrMagnitude > 0.01f;
+
+if (isMoving)
+{
+    lastDirection = moveInput.normalized;
+    animator.SetFloat("X", lastDirection.x);
+    animator.SetFloat("Y", lastDirection.y);
+}
+else
+{
+    animator.SetFloat("X", lastDirection.x);
+    animator.SetFloat("Y", lastDirection.y);
+}
+
+animator.SetBool("IsMoving", isMoving);
         UpdateAnimation();
+
+
     }
 
     private void FixedUpdate()
@@ -62,8 +82,16 @@ public class PlayerController : MonoBehaviour
 
         if (isMoving)
         {
-            animator.SetFloat(ParamXHash, moveInput.x);
-            animator.SetFloat(ParamYHash, moveInput.y);
+            lastDirection = moveInput.normalized;
+            animator.SetFloat(ParamXHash, lastDirection.x);
+            animator.SetFloat(ParamYHash, lastDirection.y);
         }
+        else
+        {
+            animator.SetFloat(ParamXHash, lastDirection.x);
+            animator.SetFloat(ParamYHash, lastDirection.y);
+        }
+
+        animator.SetBool("IsMoving", isMoving);
     }
 }
