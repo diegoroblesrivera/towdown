@@ -1,0 +1,1965 @@
+fileFormatVersion: 2
+guid: 61388e4215cb095469f9e3b63822cb0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1480130894644416012
+    second: FD_Forest_Animations_0
+  - first:
+      213: -3620658194707807379
+    second: FD_Forest_Animations_1
+  - first:
+      213: 766178479432638401
+    second: FD_Forest_Animations_2
+  - first:
+      213: 2421856021671461917
+    second: FD_Forest_Animations_3
+  - first:
+      213: -5712631958836558985
+    second: FD_Forest_Animations_4
+  - first:
+      213: -4464282382570223734
+    second: FD_Forest_Animations_5
+  - first:
+      213: -7995441710721072668
+    second: FD_Forest_Animations_6
+  - first:
+      213: -3070093908190840902
+    second: FD_Forest_Animations_7
+  - first:
+      213: 8049608280036539260
+    second: FD_Forest_Animations_8
+  - first:
+      213: -4603025188271071762
+    second: FD_Forest_Animations_9
+  - first:
+      213: 6105349136760939791
+    second: FD_Forest_Animations_10
+  - first:
+      213: 4300863543402917143
+    second: FD_Forest_Animations_11
+  - first:
+      213: 2157611276813137343
+    second: FD_Forest_Animations_12
+  - first:
+      213: -5741681809722401911
+    second: FD_Forest_Animations_13
+  - first:
+      213: -4240625406761839741
+    second: FD_Forest_Animations_14
+  - first:
+      213: 8632856945921828121
+    second: FD_Forest_Animations_15
+  - first:
+      213: -1089897718373564963
+    second: FD_Forest_Animations_16
+  - first:
+      213: 3815482982064709598
+    second: FD_Forest_Animations_17
+  - first:
+      213: 6562363747761518542
+    second: FD_Forest_Animations_18
+  - first:
+      213: -7031603068575606355
+    second: FD_Forest_Animations_19
+  - first:
+      213: -3903667244804475431
+    second: FD_Forest_Animations_20
+  - first:
+      213: -8002928880180254504
+    second: FD_Forest_Animations_21
+  - first:
+      213: -7454468185100873893
+    second: FD_Forest_Animations_22
+  - first:
+      213: -1507721963593697680
+    second: FD_Forest_Animations_23
+  - first:
+      213: -8110880940554727735
+    second: FD_Forest_Animations_24
+  - first:
+      213: 4416340277549846454
+    second: FD_Forest_Animations_25
+  - first:
+      213: -793763140541195078
+    second: FD_Forest_Animations_26
+  - first:
+      213: -5270763683702219071
+    second: FD_Forest_Animations_27
+  - first:
+      213: -6709846826354607915
+    second: FD_Forest_Animations_28
+  - first:
+      213: -8248096389997699541
+    second: FD_Forest_Animations_29
+  - first:
+      213: -3327327706895508032
+    second: FD_Forest_Animations_30
+  - first:
+      213: -4460857729960226886
+    second: FD_Forest_Animations_31
+  - first:
+      213: 5915943595803494714
+    second: FD_Forest_Animations_32
+  - first:
+      213: -4934042269603247856
+    second: FD_Forest_Animations_33
+  - first:
+      213: -2272653041767098780
+    second: FD_Forest_Animations_34
+  - first:
+      213: -8518642203992277240
+    second: FD_Forest_Animations_35
+  - first:
+      213: -5350773014911303420
+    second: FD_Forest_Animations_36
+  - first:
+      213: -2902511526442018066
+    second: FD_Forest_Animations_37
+  - first:
+      213: -4059820865787522544
+    second: FD_Forest_Animations_38
+  - first:
+      213: 4453854690995145756
+    second: FD_Forest_Animations_39
+  - first:
+      213: 8559543317916853465
+    second: FD_Forest_Animations_40
+  - first:
+      213: -7289821234936779577
+    second: FD_Forest_Animations_41
+  - first:
+      213: -5662459201861820106
+    second: FD_Forest_Animations_42
+  - first:
+      213: 3276360320445518028
+    second: FD_Forest_Animations_43
+  - first:
+      213: 1898239630837937666
+    second: FD_Forest_Animations_44
+  - first:
+      213: 6544480328644456221
+    second: FD_Forest_Animations_45
+  - first:
+      213: 5718877984282231513
+    second: FD_Forest_Animations_46
+  - first:
+      213: -5186108844002987561
+    second: FD_Forest_Animations_47
+  - first:
+      213: 602223616331963515
+    second: FD_Forest_Animations_48
+  - first:
+      213: -4666482997171523680
+    second: FD_Forest_Animations_49
+  - first:
+      213: -1216150803593376921
+    second: FD_Forest_Animations_50
+  - first:
+      213: 1245973254015448558
+    second: FD_Forest_Animations_51
+  - first:
+      213: -3100644234387525047
+    second: FD_Forest_Animations_52
+  - first:
+      213: 3457784327419191402
+    second: FD_Forest_Animations_53
+  - first:
+      213: -7808892504536096639
+    second: FD_Forest_Animations_54
+  - first:
+      213: 740502177910696461
+    second: FD_Forest_Animations_55
+  - first:
+      213: 4380819079222490309
+    second: FD_Forest_Animations_56
+  - first:
+      213: 2360472559397190826
+    second: FD_Forest_Animations_57
+  - first:
+      213: -1371325477404446880
+    second: FD_Forest_Animations_58
+  - first:
+      213: 1134082285038920921
+    second: FD_Forest_Animations_59
+  - first:
+      213: 4203399187456276229
+    second: FD_Forest_Animations_60
+  - first:
+      213: -4322712150293997965
+    second: FD_Forest_Animations_61
+  - first:
+      213: -584068775382432399
+    second: FD_Forest_Animations_62
+  - first:
+      213: -8428567870160675863
+    second: FD_Forest_Animations_63
+  - first:
+      213: -5669215663707915041
+    second: FD_Forest_Animations_64
+  - first:
+      213: 5704926762628527777
+    second: FD_Forest_Animations_65
+  - first:
+      213: 8234263144200126602
+    second: FD_Forest_Animations_66
+  - first:
+      213: 3236320708570940804
+    second: FD_Forest_Animations_67
+  - first:
+      213: 2805412870082829687
+    second: FD_Forest_Animations_68
+  - first:
+      213: -5537154191552925525
+    second: FD_Forest_Animations_69
+  - first:
+      213: -6603589948924853638
+    second: FD_Forest_Animations_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FD_Forest_Animations_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e8c54e43b7a8410800000000000000
+      internalID: 1480130894644416012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6385531e86d0cdc0800000000000000
+      internalID: -3620658194707807379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf9125844302aa00800000000000000
+      internalID: 766178479432638401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144edc58392c9120800000000000000
+      internalID: 2421856021671461917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c0011087a8b0b0800000000000000
+      internalID: -5712631958836558985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870ed963deab02c0800000000000000
+      internalID: -4464282382570223734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e10122302c7a0190800000000000000
+      internalID: -7995441710721072668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7b1374bd5d465d0800000000000000
+      internalID: -3070093908190840902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bfe900514f5bf60800000000000000
+      internalID: 8049608280036539260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed5de8aaf4ce10c0800000000000000
+      internalID: -4603025188271071762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05af5e31be8ab450800000000000000
+      internalID: 6105349136760939791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d65f31b9cbfab30800000000000000
+      internalID: 4300863543402917143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5f2d5560061fd10800000000000000
+      internalID: 2157611276813137343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9c2690d27150b0800000000000000
+      internalID: -5741681809722401911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383d67c09a54625c0800000000000000
+      internalID: -4240625406761839741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 81
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9152f6a47a11ec770800000000000000
+      internalID: 8632856945921828121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddb5d6bcc7efd0f0800000000000000
+      internalID: -1089897718373564963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_17
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 63
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfd3809e8153f430800000000000000
+      internalID: 3815482982064709598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7f9384f03321b50800000000000000
+      internalID: 6562363747761518542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da91100a34aba6e90800000000000000
+      internalID: -7031603068575606355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f918c25363d9c0800000000000000
+      internalID: -3903667244804475431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d82426b592efe090800000000000000
+      internalID: -8002928880180254504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f8c9d5ea86c8890800000000000000
+      internalID: -7454468185100873893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07671f3ccde731be0800000000000000
+      internalID: -1507721963593697680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cecfb202cc507f80800000000000000
+      internalID: -8110880940554727735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfcb9a651ef94d30800000000000000
+      internalID: 4416340277549846454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc5e3411acfbf4f0800000000000000
+      internalID: -793763140541195078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce56e9fa5c7ad6b0800000000000000
+      internalID: -5270763683702219071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f9d99cd5d1e2a0800000000000000
+      internalID: -6709846826354607915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e51099800e88d80800000000000000
+      internalID: -8248096389997699541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd9d2b5415f2d1d0800000000000000
+      internalID: -3327327706895508032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4a2c7789d712c0800000000000000
+      internalID: -4460857729960226886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a394d1b3b57a91250800000000000000
+      internalID: 5915943595803494714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 65
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019498d82b2c68bb0800000000000000
+      internalID: -4934042269603247856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466d2cb791ae570e0800000000000000
+      internalID: -2272653041767098780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fb3669c04b7c980800000000000000
+      internalID: -8518642203992277240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014774ea4c3eb5b0800000000000000
+      internalID: -5350773014911303420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea52f5152538b7d0800000000000000
+      internalID: -2902511526442018066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0121403be6e98a7c0800000000000000
+      internalID: -4059820865787522544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c09f17e354fcd30800000000000000
+      internalID: 4453854690995145756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4a0081c4b99c670800000000000000
+      internalID: 8559543317916853465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc6e7fb53a55da90800000000000000
+      internalID: -7289821234936779577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63162ed5b57ea61b0800000000000000
+      internalID: -5662459201861820106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc017504a58f77d20800000000000000
+      internalID: 3276360320445518028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206f9ae03e6e75a10800000000000000
+      internalID: 1898239630837937666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f626c4f2aa2da50800000000000000
+      internalID: 6544480328644456221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2c1fe0a398d5f40800000000000000
+      internalID: 5718877984282231513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1b0bacb7d3708b0800000000000000
+      internalID: -5186108844002987561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c51d630378b5800800000000000000
+      internalID: 602223616331963515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 49
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afe03b20725d3fb0800000000000000
+      internalID: -4666482997171523680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bc28e994d5f1fe0800000000000000
+      internalID: -1216150803593376921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee57a35b2169a4110800000000000000
+      internalID: 1245973254015448558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942f77a2f7c48f4d0800000000000000
+      internalID: -3100644234387525047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60ebb196848cff20800000000000000
+      internalID: 3457784327419191402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1806ae1f3ad31a390800000000000000
+      internalID: -7808892504536096639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a25c5becac64a00800000000000000
+      internalID: 740502177910696461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c47f42fdbbcbcc30800000000000000
+      internalID: 4380819079222490309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac3de4594512c020800000000000000
+      internalID: 2360472559397190826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f6ddf6eb218fce0800000000000000
+      internalID: -1371325477404446880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4eec164d11dbf00800000000000000
+      internalID: 1134082285038920921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5073f795a49755a30800000000000000
+      internalID: 4203399187456276229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_61
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3761677b334a204c0800000000000000
+      internalID: -4322712150293997965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175cee61b88f4e7f0800000000000000
+      internalID: -584068775382432399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb5dc5bd26b70b80800000000000000
+      internalID: -8428567870160675863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcfb910466e251b0800000000000000
+      internalID: -5669215663707915041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6b7142aa8fb2f40800000000000000
+      internalID: 5704926762628527777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80c321e3baf54270800000000000000
+      internalID: 8234263144200126602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4858c95a988b9ec20800000000000000
+      internalID: 3236320708570940804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d98914424dee620800000000000000
+      internalID: 2805412870082829687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba03ce199931823b0800000000000000
+      internalID: -5537154191552925525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FD_Forest_Animations_70
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 33
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a728ef3cde55b54a0800000000000000
+      internalID: -6603589948924853638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FD_Forest_Animations_0: 1480130894644416012
+      FD_Forest_Animations_1: -3620658194707807379
+      FD_Forest_Animations_10: 6105349136760939791
+      FD_Forest_Animations_11: 4300863543402917143
+      FD_Forest_Animations_12: 2157611276813137343
+      FD_Forest_Animations_13: -5741681809722401911
+      FD_Forest_Animations_14: -4240625406761839741
+      FD_Forest_Animations_15: 8632856945921828121
+      FD_Forest_Animations_16: -1089897718373564963
+      FD_Forest_Animations_17: 3815482982064709598
+      FD_Forest_Animations_18: 6562363747761518542
+      FD_Forest_Animations_19: -7031603068575606355
+      FD_Forest_Animations_2: 766178479432638401
+      FD_Forest_Animations_20: -3903667244804475431
+      FD_Forest_Animations_21: -8002928880180254504
+      FD_Forest_Animations_22: -7454468185100873893
+      FD_Forest_Animations_23: -1507721963593697680
+      FD_Forest_Animations_24: -8110880940554727735
+      FD_Forest_Animations_25: 4416340277549846454
+      FD_Forest_Animations_26: -793763140541195078
+      FD_Forest_Animations_27: -5270763683702219071
+      FD_Forest_Animations_28: -6709846826354607915
+      FD_Forest_Animations_29: -8248096389997699541
+      FD_Forest_Animations_3: 2421856021671461917
+      FD_Forest_Animations_30: -3327327706895508032
+      FD_Forest_Animations_31: -4460857729960226886
+      FD_Forest_Animations_32: 5915943595803494714
+      FD_Forest_Animations_33: -4934042269603247856
+      FD_Forest_Animations_34: -2272653041767098780
+      FD_Forest_Animations_35: -8518642203992277240
+      FD_Forest_Animations_36: -5350773014911303420
+      FD_Forest_Animations_37: -2902511526442018066
+      FD_Forest_Animations_38: -4059820865787522544
+      FD_Forest_Animations_39: 4453854690995145756
+      FD_Forest_Animations_4: -5712631958836558985
+      FD_Forest_Animations_40: 8559543317916853465
+      FD_Forest_Animations_41: -7289821234936779577
+      FD_Forest_Animations_42: -5662459201861820106
+      FD_Forest_Animations_43: 3276360320445518028
+      FD_Forest_Animations_44: 1898239630837937666
+      FD_Forest_Animations_45: 6544480328644456221
+      FD_Forest_Animations_46: 5718877984282231513
+      FD_Forest_Animations_47: -5186108844002987561
+      FD_Forest_Animations_48: 602223616331963515
+      FD_Forest_Animations_49: -4666482997171523680
+      FD_Forest_Animations_5: -4464282382570223734
+      FD_Forest_Animations_50: -1216150803593376921
+      FD_Forest_Animations_51: 1245973254015448558
+      FD_Forest_Animations_52: -3100644234387525047
+      FD_Forest_Animations_53: 3457784327419191402
+      FD_Forest_Animations_54: -7808892504536096639
+      FD_Forest_Animations_55: 740502177910696461
+      FD_Forest_Animations_56: 4380819079222490309
+      FD_Forest_Animations_57: 2360472559397190826
+      FD_Forest_Animations_58: -1371325477404446880
+      FD_Forest_Animations_59: 1134082285038920921
+      FD_Forest_Animations_6: -7995441710721072668
+      FD_Forest_Animations_60: 4203399187456276229
+      FD_Forest_Animations_61: -4322712150293997965
+      FD_Forest_Animations_62: -584068775382432399
+      FD_Forest_Animations_63: -8428567870160675863
+      FD_Forest_Animations_64: -5669215663707915041
+      FD_Forest_Animations_65: 5704926762628527777
+      FD_Forest_Animations_66: 8234263144200126602
+      FD_Forest_Animations_67: 3236320708570940804
+      FD_Forest_Animations_68: 2805412870082829687
+      FD_Forest_Animations_69: -5537154191552925525
+      FD_Forest_Animations_7: -3070093908190840902
+      FD_Forest_Animations_70: -6603589948924853638
+      FD_Forest_Animations_8: 8049608280036539260
+      FD_Forest_Animations_9: -4603025188271071762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
